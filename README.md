@@ -13,7 +13,7 @@
 </p>
  <p>
 <p align="center">
- This is my first <a href="https://lokixjs.github.io/Imlokixjs.github.lo/index.html">WebSite</a> it made for education purpose only
+ This is my first <a href="https://lokixjs.github.io/lokixjs.github.lo/index.html">WebSite</a> it made for education purpose only
     <br>
     <br> 
 </p>
