@@ -1,6 +1,6 @@
 ## <!-- Typing SVG -->
 <p align="middle">
-    <a href="https://github.com/lokixjs">
+    <a href="https://github.com/Loki-Xer">
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=WELCOME+TO+MY+FIRST+WEBSITE+RIPO"
             alt="Typing SVG"
